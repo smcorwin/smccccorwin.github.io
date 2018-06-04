@@ -1,4 +1,3 @@
-# smcorwin.github.io
 
 My name is Samuel Corwin.
 
