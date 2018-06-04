@@ -1,4 +1,4 @@
-![Samuel Corwin]()
+![Samuel Corwin](https://github.com/smcorwin/smcorwin.github.io/blob/master/Profile.jpg)
 
 My name is **Samuel Corwin**.
 
